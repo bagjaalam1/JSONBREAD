@@ -1,0 +1,24 @@
+[
+   {
+      "string": "satu",
+      "integer": "1",
+      "float": "1.2",
+      "date": "2022-07-12",
+      "boolean": "true"
+   },
+   {
+      "string": "dua",
+      "integer": "2",
+      "float": "2.2",
+      "date": "2002-12-12",
+      "boolean": "false"
+   },
+   {
+      "id": "2",
+      "string": "asd",
+      "integer": "321",
+      "float": "123.23",
+      "date": "3213-12-31",
+      "boolean": "false"
+   }
+]
